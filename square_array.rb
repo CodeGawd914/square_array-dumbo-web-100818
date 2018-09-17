@@ -1,5 +1,4 @@
 #def square_array(array)
-<<<<<<< HEAD
  #newArray = []
  #array.each {|i| i**2 }
  #newArray.push
@@ -11,7 +10,6 @@
 
 def square_array(array)
   new_arr = [] 
-<<<<<<< HEAD
   array.each do |i| 
     square = i * i
     new_arr.push(square)
